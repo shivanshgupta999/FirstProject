@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-#include "solution.h"
-
 int main()
 {
 	int t;
